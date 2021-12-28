@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.jakez.bettersense.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "CactusBlockMixin",
+    "StonecutterBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
